@@ -6,3 +6,6 @@
 
 # Ignore output files
 *.pdf
+
+# Ignore folder for old files
+zOLD/*
